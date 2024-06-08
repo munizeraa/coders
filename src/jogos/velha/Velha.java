@@ -23,10 +23,11 @@ public class Velha {
         this.historico = new String[dimensao * 10];
         this.saudarJogadores();
         this.configurarCasasDoJogo();
+
     }
 
     /**
-     * GETTES E SETTERS
+     * GETTERS E SETTERS
      */
 
     public String getNome() {

@@ -5,7 +5,42 @@
   </component>
   <component name="ChangeListManager">
     <list default="true" id="2a4192b4-6f0a-4e66-927a-b5d125c8b150" name="Changes" comment="First Commit">
+      <change afterPath="$PROJECT_DIR$/src/exercicios/logica/FIbonnacci.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/exercicios/logica/Fatorial.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/exercicios/logica/OrdenacaoLista.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/exercicios/logica/Teimosia.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/lista/exercicios/faccat/Exercicio25.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/lista/exercicios/faccat/Exercicio26.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/lista/exercicios/faccat/Exercicio6.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/poo/abstracao/Payment.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/poo/abstracao/hospital/Funcionario.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/poo/abstracao/hospital/Paciente.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/poo/abstracao/hospital/Pessoa.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/poo/abstracao/hospital/TesteHospital.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/poo/aula2/heranca/exemplo1/Carro.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/poo/aula2/heranca/exemplo1/Motocicleta.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/poo/aula2/heranca/exemplo1/Teste.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/poo/aula2/heranca/exemplo1/Veiculo.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/poo/aula2/heranca/exemplo1/VeiculoAutomotor.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/poo/aula4/BoloConfeitado.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/poo/aula4/Padaria.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/poo/aula4/ReceitaBolo.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/poo/interfaces/calculadora/Calculadora.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/poo/interfaces/calculadora/ICalculadora.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/poo/interfaces/calculadora/TesteCalculadora.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/poo/interfaces/veiculo/AplicativoBanco.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/poo/interfaces/veiculo/CaixaBanco.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/poo/interfaces/veiculo/Carro.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/poo/interfaces/veiculo/IJogoLuta.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/poo/interfaces/veiculo/IPagamento.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/poo/interfaces/veiculo/IPersonagem.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/poo/interfaces/veiculo/IVeiculo.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/poo/interfaces/veiculo/Ryu.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/poo/interfaces/veiculo/StreetFighter.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/poo/polimorfismo/Veiculo.java" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/jogos/velha/Menu.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/jogos/velha/Menu.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/jogos/velha/Velha.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/jogos/velha/Velha.java" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -15,6 +50,7 @@
   <component name="FileTemplateManagerImpl">
     <option name="RECENT_TEMPLATES">
       <list>
+        <option value="Interface" />
         <option value="Class" />
       </list>
     </option>
@@ -35,22 +71,34 @@
   </component>
   <component name="PropertiesComponent">{
   &quot;keyToString&quot;: {
+    &quot;Application.Exercicio26.executor&quot;: &quot;Run&quot;,
+    &quot;Application.Exercicio6.executor&quot;: &quot;Run&quot;,
+    &quot;Application.FIbonnacci.executor&quot;: &quot;Debug&quot;,
+    &quot;Application.Fatorial.executor&quot;: &quot;Run&quot;,
     &quot;Application.First.executor&quot;: &quot;Run&quot;,
     &quot;Application.Menu.executor&quot;: &quot;Debug&quot;,
+    &quot;Application.OrdenacaoLista.executor&quot;: &quot;Debug&quot;,
+    &quot;Application.Padaria.executor&quot;: &quot;Run&quot;,
+    &quot;Application.Teimosia.executor&quot;: &quot;Debug&quot;,
+    &quot;Application.Teste.executor&quot;: &quot;Run&quot;,
+    &quot;Application.TesteCalculadora.executor&quot;: &quot;Run&quot;,
+    &quot;Application.TesteHospital.executor&quot;: &quot;Debug&quot;,
+    &quot;Application.TestePessoa.executor&quot;: &quot;Run&quot;,
+    &quot;Application.poo.abstracao.Teste.executor&quot;: &quot;Run&quot;,
     &quot;RunOnceActivity.ShowReadmeOnStart&quot;: &quot;true&quot;,
     &quot;SHARE_PROJECT_CONFIGURATION_FILES&quot;: &quot;true&quot;,
     &quot;git-widget-placeholder&quot;: &quot;master&quot;,
     &quot;kotlin-language-version-configured&quot;: &quot;true&quot;,
-    &quot;settings.editor.selected.configurable&quot;: &quot;Errors&quot;
+    &quot;settings.editor.selected.configurable&quot;: &quot;advanced.settings&quot;
   }
 }</component>
-  <component name="RunManager" selected="Application.Menu">
-    <configuration name="First" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
-      <option name="MAIN_CLASS_NAME" value="tiposPrimitivos.First" />
+  <component name="RunManager" selected="Application.TesteCalculadora">
+    <configuration name="FIbonnacci" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="exercicios.logica.FIbonnacci" />
       <module name="Coders" />
       <extension name="coverage">
         <pattern>
-          <option name="PATTERN" value="tiposPrimitivos.*" />
+          <option name="PATTERN" value="exercicios.logica.*" />
           <option name="ENABLED" value="true" />
         </pattern>
       </extension>
@@ -58,12 +106,12 @@
         <option name="Make" enabled="true" />
       </method>
     </configuration>
-    <configuration name="Menu" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
-      <option name="MAIN_CLASS_NAME" value="jogos.velha.Menu" />
+    <configuration name="Fatorial" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="exercicios.logica.Fatorial" />
       <module name="Coders" />
       <extension name="coverage">
         <pattern>
-          <option name="PATTERN" value="jogos.velha.*" />
+          <option name="PATTERN" value="exercicios.logica.*" />
           <option name="ENABLED" value="true" />
         </pattern>
       </extension>
@@ -71,10 +119,59 @@
         <option name="Make" enabled="true" />
       </method>
     </configuration>
+    <configuration name="OrdenacaoLista" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="exercicios.logica.OrdenacaoLista" />
+      <module name="Coders" />
+      <extension name="coverage">
+        <pattern>
+          <option name="PATTERN" value="exercicios.logica.*" />
+          <option name="ENABLED" value="true" />
+        </pattern>
+      </extension>
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="Teimosia" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="exercicios.logica.Teimosia" />
+      <module name="Coders" />
+      <extension name="coverage">
+        <pattern>
+          <option name="PATTERN" value="exercicios.logica.*" />
+          <option name="ENABLED" value="true" />
+        </pattern>
+      </extension>
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="TesteCalculadora" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="poo.interfaces.calculadora.TesteCalculadora" />
+      <module name="Coders" />
+      <extension name="coverage">
+        <pattern>
+          <option name="PATTERN" value="poo.interfaces.calculadora.*" />
+          <option name="ENABLED" value="true" />
+        </pattern>
+      </extension>
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <list>
+      <item itemvalue="Application.FIbonnacci" />
+      <item itemvalue="Application.OrdenacaoLista" />
+      <item itemvalue="Application.Teimosia" />
+      <item itemvalue="Application.TesteCalculadora" />
+      <item itemvalue="Application.Fatorial" />
+    </list>
     <recent_temporary>
       <list>
-        <item itemvalue="Application.Menu" />
-        <item itemvalue="Application.First" />
+        <item itemvalue="Application.TesteCalculadora" />
+        <item itemvalue="Application.Teimosia" />
+        <item itemvalue="Application.FIbonnacci" />
+        <item itemvalue="Application.OrdenacaoLista" />
+        <item itemvalue="Application.Fatorial" />
       </list>
     </recent_temporary>
   </component>
@@ -112,5 +209,27 @@
   <component name="VcsManagerConfiguration">
     <MESSAGE value="First Commit" />
     <option name="LAST_COMMIT_MESSAGE" value="First Commit" />
+  </component>
+  <component name="XDebuggerManager">
+    <breakpoint-manager>
+      <breakpoints>
+        <line-breakpoint enabled="true" type="java-field">
+          <url>file://$PROJECT_DIR$/src/poo/aula2/heranca/exemplo1/VeiculoAutomotor.java</url>
+          <line>10</line>
+          <properties field="tipoDeCombustivel" class="poo.aula2.heranca.exemplo1.VeiculoAutomotor" />
+          <option name="timeStamp" value="2" />
+        </line-breakpoint>
+        <line-breakpoint enabled="true" type="java-line">
+          <url>file://$PROJECT_DIR$/src/poo/abstracao/hospital/Pessoa.java</url>
+          <line>11</line>
+          <option name="timeStamp" value="4" />
+        </line-breakpoint>
+        <line-breakpoint enabled="true" type="java-line">
+          <url>file://$PROJECT_DIR$/src/poo/abstracao/hospital/Pessoa.java</url>
+          <line>17</line>
+          <option name="timeStamp" value="5" />
+        </line-breakpoint>
+      </breakpoints>
+    </breakpoint-manager>
   </component>
 </project>

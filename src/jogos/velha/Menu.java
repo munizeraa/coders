@@ -30,5 +30,6 @@ public class Menu {
 
         jogo.statusJogo();
         jogo.obterHistorico();
+
     }
 }
